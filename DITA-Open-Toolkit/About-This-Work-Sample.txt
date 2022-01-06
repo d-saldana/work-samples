@@ -1,0 +1,20 @@
+About This Work Sample
+
+by M. Derek Saldana
+
+Last Updated: September 9, 2021
+
+This project involved working with a DITA Open Toolkit (DITA-OT) plugin. The original 
+scope of work involved restoring missing headers and footers. Also, as part of the effort, 
+I addressed the client’s desire to “modernize” her DITA-OT plugin to function properly 
+with the most recent DITA-OT release (version 3.6.1 at the time). 
+
+The overall work addressed issues such as:
+* Making page-break behavior configurable via toggle variables defined in the XSL files
+* Updating the code to function properly as an encapsulated DITA-OT plugin. 
+
+My code updates in the XSL files are annotated with my initials and explanatory text in 
+the XML comments. I added a plain-text file with brief instructions regarding installation 
+and usage. In the DITA source, I’ve replaced the original content with Lorem Ipsum text 
+and generic artwork to protect the confidentiality of the original content. Also, I 
+supplied the PDF file that was generated from the Lorem Ipsum DITA source.

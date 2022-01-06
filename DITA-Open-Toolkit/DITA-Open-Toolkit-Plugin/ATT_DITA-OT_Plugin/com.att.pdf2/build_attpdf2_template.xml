@@ -1,0 +1,14 @@
+<project name="com.att.pdf2" default="dita2attpdf2">
+    <property file="build.properties"/>
+    <property file="${user.home}/.build.properties"/>
+    <property file="${user.home}/build.properties"/>
+    
+    <property name="dita.plugin.com.att.pdf2.name" value="com.att.pdf2"/>
+    <property name="dita.plugin.com.att.pdf2.dir" location="${dita.plugin.org.dita.pdf2.dir}/../${dita.plugin.com.att.pdf2.name}"/>
+    
+    <property name="transtype" value="attpdf2"/>
+    <target name="dita2attpdf2" xmlns:dita="http://dita-ot.sourceforge.net" dita:extension="depends org.dita.dost.platform.InsertDependsAction">
+        <property name="customization.dir" location="${dita.plugin.com.att.pdf2.dir}/cfg"/>
+        <antcall target="dita2pdf2"/>
+    </target>
+</project>

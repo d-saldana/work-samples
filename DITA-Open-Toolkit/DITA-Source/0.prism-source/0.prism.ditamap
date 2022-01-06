@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd">
+    <booktitle>
+        <mainbooktitle>
+            <image href="Customization.ATT/common/artwork/att-bar.blue.png" placement="break"/>
+            Eget Finibus Accumsan Nec Consequat Facilisis 
+            Congue Porta Laoreet Purus 
+        </mainbooktitle>
+        <booktitlealt>Augue Luctus
+            <image
+                href="Customization.ATT/common/artwork/att-bar.blue.png" placement="break"/>
+        </booktitlealt>
+    </booktitle>
+    <bookmeta>
+        <bookid>           
+            <bookpartno>1234</bookpartno>
+            <edition>1.0</edition>
+        </bookid>
+        <bookchangehistory>
+            <approved>
+                <completed>
+                    <day>1<!--{day}--></day>
+                    <month>January<!--{month}--></month>
+                    <year>2021<!--${year}--></year>
+                </completed>
+            </approved>
+        </bookchangehistory>
+        <bookrights>
+            <copyrfirst>
+                <year>${year}</year>
+            </copyrfirst>
+            <bookowner>
+                <organization>Tristique</organization>
+            </bookowner>
+            <bookrestriction value="restricted"/>
+        </bookrights>
+    </bookmeta>
+    <chapter>
+        <topicref href="copyright.dita"/>
+        <topicref href="prism.revHistory.dita"/>
+        <topicref href="prism.introduction.dita"/>
+        <topicref href="prism.integration.dita"/>
+        <topicref href="prism.initialization.dita"/>
+    </chapter>
+</bookmap>

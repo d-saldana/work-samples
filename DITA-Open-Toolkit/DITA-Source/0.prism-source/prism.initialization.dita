@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Composite//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/composite.dtd">
+<topic id="initialization">
+	<title>Per Dui Rutrum Lectus</title>
+	<body>
+		<p>Neque integer ipsum venenatis at, pharetra nibh
+quam suscipit ultrices vulputate iaculis etiam, purus class inceptos
+sollicitudin rhoncus non eros morbi metus, consectetur quis vel<ul
+				id="ol_jsc_gld_xpb">
+				<li>Parturient fringilla cursus aliquam. Consectetur efficitur venenatis</li>
+				<li>Proin pulvinar posuere volutpat aliquet vulputate, conubia vivamus morbi</li>
+				<li>Ornare magna sagittis sem potenti urna, molestie congue class nunc</li>
+				<li>Himenaeos convallis eleifend etiam integer, fames tortor facilisis</li>
+			</ul>Suscipit habitasse dictum mollis. Eros enim id lorem elit risus ut
+sodales arcu, tincidunt quis erat magnis fringilla quam ad per viverra,
+pretium massa convallis diam sociosqu libero condimentum sem</p>
+
+		<p>Curabitur orci duis massa per vel quam lorem dis, inceptos non proin ac
+velit montes libero ridiculus sollicitudin, accumsan cubilia lacus est</p>
+
+		<section id="section_ksc_gld_xpb">
+			<title>Pellentesque, curae</title>
+			<p>Eleifend integer donec fermentum nam ex. Fermentum <codeph>nisl</codeph> ornare lectus felis phasellus nullam, praesent platea venenatis
+urna hac integer dolor nascetur. Libero conubia tempor scelerisque
+vestibulum etiam nascetur metus sapien, magnis pretium sociosqu <table id="table_lsc_gld_xpb">
+					<tgroup cols="2">
+						<colspec colnum="1" colname="col1" colwidth="1in" align="left"/>
+						<colspec colnum="2" colname="col2"/>
+						<thead>
+							<row>
+								<entry namest="col1" nameend="col2">Porttitor gravida</entry>
+							</row>
+						</thead>
+						<tbody>
+							<row valign="top">
+								<entry><codeph>tortor</codeph></entry>
+								<entry>
+									<b><codeph>sollicitudin</codeph></b>
+									<p>At per,  elit semper primis nisi eu</p>
+								</entry>
+							</row>
+							<row valign="top">
+								<entry><codeph>sem</codeph></entry>
+								<entry>
+									<b><codeph>habitant</codeph></b>
+									<p>Tincidunt, fringilla condimentum donec commodo taciti ex</p>
+								</entry>
+							</row>
+							<row valign="top">
+								<entry><codeph>velit</codeph></entry>
+								<entry>
+									<b><codeph>consequat</codeph></b>
+									<p>Hendrerit etiam et inceptos magna tincidunt</p>
+									<p>Pellentesque fermentum molestie, semper nulla dictum ullamcorper curae</p>
+								</entry>
+							</row>
+							<row valign="top">
+								<entry><codeph>sodales</codeph></entry>
+								<entry>
+									<p><b><codeph>dictum</codeph></b></p>
+									<p>Nisi aenean blandit, enim justo condimentum penatibus id auctor</p>
+									<p>Purus porta, pretium velit adipiscing ipsum convallis mollis nostra</p>
+									<p>Augue enim urna varius vivamus sit malesuada quis in lectus ipsum,</p>
+									<p>Litora leo proin pharetra dictum faucibus eu at taciti, suspendisse</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table></p>
+			<p>Luctus platea nunc hendrerit curabitur potenti aenean nulla, ligula</p>
+			<table id="table_msc_gld_xpb">
+				<tgroup cols="1">
+					<colspec colnum="1" colname="col1" align="left"/>
+					<thead>
+						<row>
+							<entry>Ridiculus tellus</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry>
+<codeblock>maecenas vitae est habitant
+. . .
+								
+praesent massa. Hendrerit
+. . .
+sollicitudin justo
+. . .
+curae  
+. . .
+sagittis
+. . .
+neque erat arcu scelerisque
+faucibus elementum massa vestibulum
+    ante molestie felis nisl
+    primis
+    . . .
+fames
+</codeblock>
+							</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+	</body>
+</topic>

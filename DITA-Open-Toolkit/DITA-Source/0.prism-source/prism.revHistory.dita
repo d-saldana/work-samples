@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="revHistory">
+	<title>Ullamcorper Quisque</title>
+	<body>
+		<table>
+			<tgroup cols="3">
+				<colspec colsep="1" colwidth="1.5in" rowsep="1" align="center"/>
+				<colspec colsep="1" colwidth="1.5in" rowsep="1" align="center"/>
+				<colspec colwidth="3.6in" rowsep="1"/>
+				<thead>
+					<row>
+						<entry>Donec</entry>
+						<entry>Curabitur</entry>
+						<entry>Facilisi</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Sit</entry>
+						<entry>Morbi arcu nunc</entry>
+						<entry>Cras pharetra</entry>
+					</row>
+					<row>
+						<entry>Mi</entry>
+						<entry>Mus tincidunt</entry>
+						<entry>Class, dictumst pulvinar feugiat eleifend</entry>
+					</row>
+					<row>
+						<entry>Et</entry>
+						<entry>Suspendisse</entry>
+						<entry>Consequat dictum</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</body>
+</topic>
